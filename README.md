@@ -1,8 +1,9 @@
 # Android-Touch-Custom-Rules
 
 ## 订阅链接：（不定时更新）
+### 国际:
 - https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
-国内镜像:
+### 国内镜像:
 - https://gitee.com/xiaoxing365/Android-Touch-Custom-Rules/raw/main/Rules.txt
 - https://raw.yzuu.cf/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
 ## GITHUB项目Android-Touch-Helper的自定义规则
