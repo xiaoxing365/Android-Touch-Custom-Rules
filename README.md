@@ -4,7 +4,7 @@
 ### 国际:
 - https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
 ### 国内镜像:
-- https://gitee.com/xiaoxing365/Android-Touch-Custom-Rules/raw/main/Rules.txt
+- https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
 - https://raw.yzuu.cf/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
 
 ## 使用方法:
