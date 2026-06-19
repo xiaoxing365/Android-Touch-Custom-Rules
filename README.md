@@ -7,14 +7,12 @@
 - https://xget.xi-xu.me/gh/xiaoxing365/Android-Touch-Custom-Rules/raw/refs/heads/main/Rules.json
 
 ## 使用方法:
-1.打开开屏跳过
-![Screenshot_20231214_192136.jpg](https://s2.loli.net/2023/12/14/iUA7ZtPzJmRVnKb.jpg)
+1.点击上方任意一个链接并全选复制
 2.点击设置
 ![Screenshot_20231214_192136.jpg](https://s2.loli.net/2023/12/14/iUA7ZtPzJmRVnKb.jpg)
 3.点击导入
 ![Screenshot_20231214_192210.jpg](https://s2.loli.net/2023/12/14/FDpervdAumqVbwS.jpg)
-4.进入上面给的链接（随便一个就行，都一样，看自己的网络情况而定）
-![Screenshot_20231214_192327_com.microsoft.emmx.jpg](https://s2.loli.net/2023/12/14/M8JoYEA2v9LBhgy.jpg)
+
 #### 全选并复制
 5.最后点击粘贴规则
 ![Screenshot_20231214_192346_com.zfdang.touchhelper.jpg](https://s2.loli.net/2023/12/14/eCcREqxLFumHolB.jpg)
