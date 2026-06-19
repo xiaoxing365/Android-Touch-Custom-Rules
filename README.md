@@ -8,14 +8,18 @@
 
 ## 使用方法:
 1.点击上方任意一个链接并全选复制
+
 2.点击设置
-![Screenshot_20231214_192136.jpg](https://s2.loli.net/2023/12/14/iUA7ZtPzJmRVnKb.jpg)
+
+<img width="50%" src="https://s2.loli.net/2023/12/14/iUA7ZtPzJmRVnKb.jpg"></img>
+---
 3.点击导入
-![Screenshot_20231214_192210.jpg](https://s2.loli.net/2023/12/14/FDpervdAumqVbwS.jpg)
 
-#### 全选并复制
+<img width="50%" src="https://s2.loli.net/2023/12/14/FDpervdAumqVbwS.jpg"></img>
+---
 5.最后点击粘贴规则
-![Screenshot_20231214_192346_com.zfdang.touchhelper.jpg](https://s2.loli.net/2023/12/14/eCcREqxLFumHolB.jpg)
 
-## GITHUB项目Android-Touch-Helper的自定义规则
+<img width="50%" src="https://s2.loli.net/2023/12/14/eCcREqxLFumHolB.jpg"></img>
+
+## GitHub项目Android-Touch-Helper的自定义规则
 APP官方项目地址： https://github.com/zfdang/Android-Touch-Helper
