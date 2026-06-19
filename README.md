@@ -2,10 +2,9 @@
 
 ## 订阅链接：（不定时更新）
 ### 国际:
-- https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
+- https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.json
 ### 国内镜像:
-- https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
-- https://raw.yzuu.cf/xiaoxing365/Android-Touch-Custom-Rules/main/Rules.txt
+- https://xget.xi-xu.me/gh/xiaoxing365/Android-Touch-Custom-Rules/raw/refs/heads/main/Rules.json
 
 ## 使用方法:
 1.打开开屏跳过
